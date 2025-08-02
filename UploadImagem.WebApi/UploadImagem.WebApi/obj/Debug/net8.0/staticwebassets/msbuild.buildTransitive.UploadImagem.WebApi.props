@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UploadImagem.WebApi.props" />
+</Project>

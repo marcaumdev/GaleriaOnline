@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\3b1d60ab-7709-4b73-b43e-54036f9410cd.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\3b1d60ab-7709-4b73-b43e-54036f9410cd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\5f6d5d04-079d-4eb3-bf6a-ea610450cbbe.jpg",
+      "PackagePath": "staticwebassets\\imagens\\5f6d5d04-079d-4eb3-bf6a-ea610450cbbe.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UploadImagem.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UploadImagem.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UploadImagem.WebApi.props",
+      "PackagePath": "build\\UploadImagem.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UploadImagem.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\UploadImagem.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UploadImagem.WebApi.props",
+      "PackagePath": "buildTransitive\\UploadImagem.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

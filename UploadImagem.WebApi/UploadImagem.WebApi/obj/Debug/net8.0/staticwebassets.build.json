@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "8z4O4u5PUoIGwmqfSEnzwPOngrmpgtBM+e/i6kyve3Q=",
+  "Source": "UploadImagem.WebApi",
+  "BasePath": "_content/UploadImagem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UploadImagem.WebApi\\wwwroot",
+      "Source": "UploadImagem.WebApi",
+      "ContentRoot": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImagem.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
