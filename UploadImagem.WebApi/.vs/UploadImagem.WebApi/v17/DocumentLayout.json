@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\uploadimagem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\uploadimagem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\controllers\\imagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\controllers\\imagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\dto\\putimagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\dto\\putimagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\dto\\putimagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|solutionrelative:uploadimagem.webapi\\dto\\putimagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F20DED8-96C6-4B99-B6F7-F466DC08EC16}|UploadImagem.WebApi\\UploadImagem.WebApi.csproj|c:\\users\\marcos vinicius\\desktop\\upload de imagens\\uploadimagem.webapi\\uploadimagem.webapi\\dbcontextimagem\\uploadimagemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UploadImagem.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\UploadImagem.WebApi.csproj",
+              "RelativeDocumentMoniker": "UploadImagem.WebApi\\UploadImagem.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\UploadImagem.WebApi.csproj",
+              "RelativeToolTip": "UploadImagem.WebApi\\UploadImagem.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T19:48:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "UploadImagem.WebApi\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Services\\BlobService.cs",
+              "RelativeToolTip": "UploadImagem.WebApi\\Services\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:20:39.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UploadImagem.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\appsettings.json",
+              "RelativeToolTip": "UploadImagem.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T13:37:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagensController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Controllers\\ImagensController.cs",
+              "RelativeDocumentMoniker": "UploadImagem.WebApi\\Controllers\\ImagensController.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Controllers\\ImagensController.cs",
+              "RelativeToolTip": "UploadImagem.WebApi\\Controllers\\ImagensController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwH4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:36:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PutImagemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\DTO\\PutImagemDTO.cs",
               "RelativeDocumentMoniker": "UploadImagem.WebApi\\DTO\\PutImagemDTO.cs",
@@ -50,34 +108,7 @@
               "RelativeToolTip": "UploadImagem.WebApi\\DTO\\PutImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:13:50.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "UploadImagem.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\appsettings.json",
-              "RelativeToolTip": "UploadImagem.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T13:37:40.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImagensController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Controllers\\ImagensController.cs",
-              "RelativeDocumentMoniker": "UploadImagem.WebApi\\Controllers\\ImagensController.cs",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Controllers\\ImagensController.cs",
-              "RelativeToolTip": "UploadImagem.WebApi\\Controllers\\ImagensController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T11:36:41.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T14:13:50.568Z"
             },
             {
               "$type": "Document",
@@ -87,27 +118,26 @@
               "RelativeDocumentMoniker": "UploadImagem.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Program.cs",
               "RelativeToolTip": "UploadImagem.WebApi\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T11:32:41.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ImagemRepository.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Repositories\\ImagemRepository.cs",
               "RelativeDocumentMoniker": "UploadImagem.WebApi\\Repositories\\ImagemRepository.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Repositories\\ImagemRepository.cs",
               "RelativeToolTip": "UploadImagem.WebApi\\Repositories\\ImagemRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T19:57:16.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T19:57:16.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IImagemRepository.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\Interfaces\\IImagemRepository.cs",
               "RelativeDocumentMoniker": "UploadImagem.WebApi\\Interfaces\\IImagemRepository.cs",
@@ -115,12 +145,11 @@
               "RelativeToolTip": "UploadImagem.WebApi\\Interfaces\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T19:54:04.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T19:54:04.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UploadImagemDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\DbContextImagem\\UploadImagemDbContext.cs",
               "RelativeDocumentMoniker": "UploadImagem.WebApi\\DbContextImagem\\UploadImagemDbContext.cs",
@@ -128,8 +157,7 @@
               "RelativeToolTip": "UploadImagem.WebApi\\DbContextImagem\\UploadImagemDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T19:51:51.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T19:51:51.675Z"
             }
           ]
         }

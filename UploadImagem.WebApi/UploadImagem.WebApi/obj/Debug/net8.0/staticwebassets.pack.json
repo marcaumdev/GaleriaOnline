@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\3b1d60ab-7709-4b73-b43e-54036f9410cd.jpeg",
-      "PackagePath": "staticwebassets\\imagens\\3b1d60ab-7709-4b73-b43e-54036f9410cd.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\5f6d5d04-079d-4eb3-bf6a-ea610450cbbe.jpg",
-      "PackagePath": "staticwebassets\\imagens\\5f6d5d04-079d-4eb3-bf6a-ea610450cbbe.jpg"
+      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UploadImagem.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -138,6 +138,44 @@
           }
         }
       }
+    },
+    "/api/Imagens/upload-blob": {
+      "post": {
+        "tags": [
+          "Imagens"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Arquivo": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Nome": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Arquivo": {
+                  "style": "form"
+                },
+                "Nome": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

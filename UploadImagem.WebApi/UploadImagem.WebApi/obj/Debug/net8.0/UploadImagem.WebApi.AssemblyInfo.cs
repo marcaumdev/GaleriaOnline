@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UploadImagem.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c0d6c27abfe700882bb0f234891283bc5505a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UploadImagem.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UploadImagem.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -171,3 +171,7 @@ C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadIma
 C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\obj\Debug\net8.0\UploadImagem.WebApi.genruntimeconfig.cache
 C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\obj\Debug\net8.0\ref\UploadImagem.WebApi.dll
 C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\bin\Debug\net8.0\UploadImagem.WebApi.staticwebassets.runtime.json
+C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Marcos Vinicius\Desktop\Upload de Imagens\UploadImagem.WebApi\UploadImagem.WebApi\obj\Debug\net8.0\UploadImagem.WebApi.sourcelink.json

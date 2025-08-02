@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using UploadImagem.WebApi.DbContextImagem;
 using UploadImagem.WebApi.Interfaces;
 using UploadImagem.WebApi.Repositories;
+using UploadImagem.WebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<IImagemRepository, ImagemRepository>();
+builder.Services.AddScoped<BlobService>();
 builder.Services.AddDbContext<UploadImagemDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

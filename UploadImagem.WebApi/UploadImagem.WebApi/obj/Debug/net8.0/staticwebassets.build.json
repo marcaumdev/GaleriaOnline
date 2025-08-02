@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8z4O4u5PUoIGwmqfSEnzwPOngrmpgtBM+e/i6kyve3Q=",
+  "Hash": "LycDlk/YLlNAmBPUIsIyLEG3ektyPxTUSAAhhqVA5iI=",
   "Source": "UploadImagem.WebApi",
   "BasePath": "_content/UploadImagem.WebApi",
   "Mode": "Default",
@@ -15,6 +15,111 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg",
+      "SourceId": "UploadImagem.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImagem.WebApi",
+      "RelativePath": "imagens/1b257737-dd12-4503-850e-19c43c8e3f91#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lig3vtobq7",
+      "Integrity": "XcmddDcroDNmozfDnVVNw568zUt/17/qFi20bFb+p6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/1b257737-dd12-4503-850e-19c43c8e3f91.jpeg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XcmddDcroDNmozfDnVVNw568zUt/17/qFi20bFb+p6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Aug 2025 15:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XcmddDcroDNmozfDnVVNw568zUt/17/qFi20bFb+p6g="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/1b257737-dd12-4503-850e-19c43c8e3f91.lig3vtobq7.jpeg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\Upload de Imagens\\UploadImagem.WebApi\\UploadImagem.WebApi\\wwwroot\\imagens\\1b257737-dd12-4503-850e-19c43c8e3f91.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XcmddDcroDNmozfDnVVNw568zUt/17/qFi20bFb+p6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Aug 2025 15:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lig3vtobq7"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/1b257737-dd12-4503-850e-19c43c8e3f91.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XcmddDcroDNmozfDnVVNw568zUt/17/qFi20bFb+p6g="
+        }
+      ]
+    }
+  ]
 }

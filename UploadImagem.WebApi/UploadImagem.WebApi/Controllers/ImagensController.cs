@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Azure.Storage.Blobs;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UploadImagem.WebApi.DTO;
 using UploadImagem.WebApi.Interfaces;
 using UploadImagem.WebApi.Models;
+using UploadImagem.WebApi.Services;
 
 namespace UploadImagem.WebApi.Controllers
 {
@@ -71,6 +73,26 @@ namespace UploadImagem.WebApi.Controllers
             return CreatedAtAction(nameof(GetImagemPorId), new { id = imagem.Id }, imagem);
         }
 
+        [HttpPost("upload-blob")]
+        public async Task<IActionResult> UploadParaBlob([FromForm] UploadImagemDto dto, [FromServices] BlobService blobService)
+        {
+            if (dto.Arquivo == null || dto.Arquivo.Length == 0)
+                return BadRequest("Arquivo inválido.");
+
+            var url = await blobService.UploadAsync(dto.Arquivo);
+
+            var imagem = new Imagen
+            {
+                Nome = dto.Nome,
+                Caminho = url // Salva a URL pública ou caminho no banco
+            };
+
+            await _repository.CreateAsync(imagem);
+
+            return CreatedAtAction(nameof(GetImagemPorId), new { id = imagem.Id }, imagem);
+        }
+
+
 
         [HttpPut("{id}")]
         public async Task<IActionResult> AtualizarNomeImagem(int id, [FromBody] PutImagemDTO imagemAtualizada)
@@ -93,26 +115,41 @@ namespace UploadImagem.WebApi.Controllers
 
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeletarImagem(int id)
+        public async Task<IActionResult> DeletarImagem(int id, [FromServices] BlobService blobService)
         {
             var imagem = await _repository.GetByIdAsync(id);
             if (imagem == null)
                 return NotFound("Imagem não encontrada.");
 
-            // Caminho absoluto do arquivo
-            var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory(), imagem.Caminho.Replace("/", Path.DirectorySeparatorChar.ToString()));
+            // Verifica se a imagem está no Blob ou local
+            bool armazenadoNoBlob = imagem.Caminho.StartsWith("https://galeriaonline.blob.core.windows.net/");
 
-
-            // Deleta o arquivo do disco, se existir
-            if (System.IO.File.Exists(caminhoFisico))
+            if (armazenadoNoBlob)
             {
                 try
                 {
-                    System.IO.File.Delete(caminhoFisico);
+                    var nomeArquivo = Path.GetFileName(imagem.Caminho);
+                    await blobService.DeleteAsync(nomeArquivo);
                 }
                 catch (Exception ex)
                 {
-                    return StatusCode(500, $"Erro ao excluir o arquivo: {ex.Message}");
+                    return StatusCode(500, $"Erro ao excluir imagem do Blob: {ex.Message}");
+                }
+            }
+            else
+            {
+                var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory(), imagem.Caminho.Replace("/", Path.DirectorySeparatorChar.ToString()));
+
+                if (System.IO.File.Exists(caminhoFisico))
+                {
+                    try
+                    {
+                        System.IO.File.Delete(caminhoFisico);
+                    }
+                    catch (Exception ex)
+                    {
+                        return StatusCode(500, $"Erro ao excluir o arquivo local: {ex.Message}");
+                    }
                 }
             }
 
@@ -123,7 +160,5 @@ namespace UploadImagem.WebApi.Controllers
 
             return NoContent();
         }
-
-
     }
 }

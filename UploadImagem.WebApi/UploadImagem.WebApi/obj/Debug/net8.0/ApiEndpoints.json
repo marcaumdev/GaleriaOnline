@@ -82,5 +82,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UploadImagem.WebApi.Controllers.ImagensController",
+    "Method": "UploadParaBlob",
+    "RelativePath": "api/Imagens/upload-blob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

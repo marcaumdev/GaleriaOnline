@@ -1,0 +1,46 @@
+## ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# appsettings de produção ou que contenha secrets
+**/appsettings.*.json
+!**/appsettings.Development.json
+
+# Secrets
+secrets.json
+
+# Visual Studio Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pacotes e builds
+*.nupkg
+*.snupkg
+*.dbmdl
+
+# Publish outputs
+publish/
+wwwroot/
+
+# Azure artifacts
+*.azurePubxml
+
+# Node/npm
+node_modules/
+
+# Arquivos do JetBrains Rider
+.idea/
